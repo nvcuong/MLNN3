@@ -30,7 +30,6 @@ RUN install2.r --error --skipinstalled --ncpus -2 \
     glue \
     kknn \
     klaR \
-    KODAMA \
     randomForest \
     readr \
     Rtsne \
