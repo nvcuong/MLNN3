@@ -28,6 +28,7 @@ RUN install2.r --error --skipinstalled --ncpus -2 \
     rmarkdown \
     glmnet \
     glue \
+    ISLR2 \
     kknn \
     klaR \
     randomForest \
