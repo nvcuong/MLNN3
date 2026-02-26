@@ -26,6 +26,7 @@ RUN install2.r --error --skipinstalled --ncpus -2 \
     commonmark \
     markdown \
     rmarkdown \
+    tinytex \
     glmnet \
     glue \
     ISLR2 \
