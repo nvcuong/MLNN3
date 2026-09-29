@@ -43,6 +43,7 @@ RUN install2.r --error --skipinstalled --ncpus -2 \
     mlr3verse \
     modeldata \
     mvtnorm \
+    naivebayes \
     nnet \
     pixmap \
     plotly \
